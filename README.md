@@ -1,4 +1,4 @@
-## Hi , I'm Radhika <br>
+## Hi , I'm Radhika Avhad <br>
 
 Computer Science student at MIT ADT university <br>
 
