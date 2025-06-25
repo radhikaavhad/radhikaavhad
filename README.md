@@ -3,16 +3,16 @@
 
 ---
 
-🎓 I'm a 3rd-year B.Tech Computer Science student at MIT ADT University  
+🎓 I'm a 3rd-year B.Tech Computer Science student at MIT ADT University.
 🚀 Passionate about building tech solutions that make a real-world impact — from AI-based sign language translators to web platforms for government services.  
 🤝 Active participant in hackathons, club activities, and technical fests.
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radhika-avhad)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/radhikaavhad)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radhikaavhad18@gmail.com)  
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radhika-avhad)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/radhikaavhad)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radhikaavhad18@gmail.com)
 
 ---
 
@@ -68,7 +68,8 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=radhikaavhad&theme=merko&hide_border=false&include_all_commits=true&count_private=true)  
+<!-- Removed include_all_commits=true as it may cause issues -->
+![](https://github-readme-stats.vercel.app/api?username=radhikaavhad&theme=merko&hide_border=false&show_icons=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=radhikaavhad&theme=merko&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=radhikaavhad&theme=merko&hide_border=false&layout=compact)
 
@@ -91,4 +92,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=radhikaavhad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Generated using data from resume and GPRM - https://gprm.itsvg.in -->
+<!-- Generated using resume and GPRM | Feel free to modify or request additions -->
