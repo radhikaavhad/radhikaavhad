@@ -3,7 +3,7 @@
 
 ---
 
-🎓 I'm a 3rd-year B.Tech Computer Science student at MIT ADT University.
+🎓 I'm a final-year B.Tech Computer Science student at MIT ADT University.
 
 🚀 Passionate about building tech solutions that make a real-world impact — from AI-based sign language translators to web platforms for government services. 
 
