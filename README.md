@@ -5,7 +5,7 @@
 
 🎓 I'm a final-year B.Tech Computer Science student at MIT ADT University.
 
-🚀 Passionate about building tech solutions that make a real-world impact — from AI-based sign language translators to web platforms for government services. 
+🚀 Passionate about building tech solutions that make a real-world impact — from AI-based translators to web platforms for government services. 
 
 🤝 Active participant in hackathons, club activities, and technical fests.
 
@@ -50,7 +50,7 @@
   Real-time sign-to-text translator using CNN & OpenCV for the speech and hearing impaired.
 
 - **Hand Gesture Controlled PPT**  
-  Gesture-based slide navigation using OpenCV, MediaPipe, and PyAutoGUI.
+  Gesture-based slide navigation using OpenCV, MediaPipe.
 
 - **LicenseLane**  
   A web-based portal to simplify driving license procedures using HTML, CSS, JavaScript, and PHP.
